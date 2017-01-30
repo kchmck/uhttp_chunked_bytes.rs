@@ -1,0 +1,9 @@
+[package]
+name = "uhttp_chunked_bytes"
+version = "0.5.0"
+authors = ["Mick Koch <mick@kochm.co>"]
+description = "Zero-allocation iterator for HTTP chunked body bytes"
+license = "MIT"
+documentation = "https://docs.rs/uhttp_chunked_bytes"
+repository = "https://github.com/kchmck/uhttp_chunked_bytes.rs"
+keywords = ["http", "chunked", "body", "bytes"]
